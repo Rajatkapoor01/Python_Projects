@@ -30,7 +30,7 @@
 
 # Snake_game
 
-<!--An image is an illustration for your project, the tip here is using your sense of humour as much as you can :D 
+
 
 You can copy paste my markdown photo insert as following:
 <p align="center">
@@ -57,11 +57,6 @@ python ./main.py
 
 ## You can move using: W A S D
 
-## 📺 Demo
-<p align="center">
-<img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/Snake_game.png" width=70% height=70%>
-
 ## 🤖 Author
-<!--Remove the below lines and add yours -->
-[Alexander Monterrosa](https://github.com/Alex108-lab)
+RAJAT KAPOOR
 
