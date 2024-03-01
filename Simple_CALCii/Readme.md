@@ -1,7 +1,5 @@
 # Simple Calculator
 
-![Calculator Icon](calculator_icon.png)
-
 This is a simple calculator application built using Python for the backend logic, JavaScript for the frontend functionality, and CSS for styling.
 
 ## Features
