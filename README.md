@@ -54,9 +54,50 @@ python -m pip install --upgrade pygame
 ```bash
 python ./main.py
 ```
-
 ## You can move using: W A S D
 
+>3 # Simple Calculator
+
+This is a simple calculator application built using Python for the backend logic, JavaScript for the frontend functionality, and CSS for styling.
+
+## Features
+
+- Addition, subtraction, multiplication, and division operations.
+- Clear button to reset the calculator.
+- Responsive design for seamless usage on different devices.
+
+
+
+
 ## 🤖 Author
-RAJAT KAPOOR
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Author: Rajat Kapoor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .author {
+            font-size: 24px;
+            font-weight: bold;
+            color: #333;
+            background-color: #f9f9f9;
+            padding: 10px 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="author">
+        Author: Rajat Kapoor
+    </div>
+</body>
+</html>
+
 
