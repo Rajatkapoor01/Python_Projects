@@ -63,9 +63,9 @@ def main(self):
    db = Database()
    db.connect("test.db")
    db.createTable("swer",{'file':'TEXT'})
-   # Usage
-   # db.execQuery("SELECT * FROM swer").fetchone()[column]
-   # db.execQuery("SELECT * FROM swer").fetchall()[row][column]
+   #Usage
+   #db.execQuery("SELECT * FROM swer").fetchone()[column]
+   #db.execQuery("SELECT * FROM swer").fetchall()[row][column]
    db.close()
 
 
